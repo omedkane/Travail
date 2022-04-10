@@ -14,7 +14,7 @@ Aux nombreuses preuves du théorème de Pythagore, s'ajoute la contribution du 2
 
 <br/>
 
-Garfield a avancé sa preuve du théorème de **Pythagore** en 1876 étant membre du Congrès. Sa preuve fut publiée en le 1er Avril 1876 dans le journal **New-England Journal Of Education**.
+Garfield a avancé sa preuve du théorème de **Pythagore** en 1876 étant membre du Congrès. Sa preuve fut publiée le 1er Avril 1876 dans le journal **New-England Journal Of Education**.
 
 <p align=center>
    <img src="https://github.com/omedkane/Travail/blob/master/images/MergedImages.jpg"/>
