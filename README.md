@@ -1,6 +1,6 @@
 # La Preuve De Garfield
 
-## Introduction
+## Arrière-plan
 
 Aux nombreuses preuves du théorème de Pythagore, s'ajoute la contribution du 20ème président des États-Unis d'Amérique **James Garfield**, un diplomé du collège universitaire **Williams College** qui fut de suite enseignant de la langue grecque, du latin, de l'histoire, de la philosophie, de la rhétorique et enfin des mathématiques à l'institut **Western Reserve Ecletic**, aujourd'hui connu sous le nom de **Hiram College**.
 
@@ -38,7 +38,7 @@ $$
 S_t = (a+b) + \frac{(a+b)}{2}
 $$
 
-Rappellons aussi que la surface d'un triangle est égale à la moitié du produit de sa base et hauteur; Soient <img src="https://render.githubusercontent.com/render/math?math=S_{ABC}"> la surface du triangle $ABC$  et $S_P$ celle du triangle projété, nous avons :
+Rappellons aussi que la surface d'un triangle est égale à la moitié du produit de sa base et hauteur; Soient <img src="https://render.githubusercontent.com/render/math?math=S_{ABC}"> la surface du triangle <img src="https://render.githubusercontent.com/render/math?math=ABC"> et <img src="https://render.githubusercontent.com/render/math?math=S_P"> celle du triangle projété, nous avons :
 
 $$
 S_{ABC} = \frac{ab}{2} \hspace{0.2cm} et \hspace{0.2cm} S_P = \frac{c^2}{2} 
