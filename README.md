@@ -4,15 +4,15 @@
 
 Aux nombreuses preuves du théorème de Pythagore, s'ajoute la contribution du 20ème président des États-Unis d'Amérique **James Garfield**, un diplomé du collège universitaire **Williams College** qui fut de suite enseignant de la langue grecque, du latin, de l'histoire, de la philosophie, de la rhétorique et enfin des mathématiques à l'institut **Western Reserve Ecletic**, aujourd'hui connu sous le nom de **Hiram College**.
 
-Garfield a avancé sa preuve du théorème de Pythagore en 1876 étant membre du Congrès. Sa preuve fut publiée en le 1er Avril 1876 dans le journal **New-England Journal Of Education**.
+<img title="James A. Garfield" src="https://github.com/omedkane/Travail/blob/master/images/Garfield.jpg" alt="" width="426" data-align="center">***James Abram Garfield*** *(November 19, 1831 – September 19, 1881), Président des États-Unis du 4 Mars 1881 jusqu'à son décès le 19 septembre 1881.*
 
 
 
-![](https://github.com/omedkane/Travail/blob/master/MergedImages.jpg)
+Garfield a avancé sa preuve du théorème de **Pythagore** en 1876 étant membre du Congrès. Sa preuve fut publiée en le 1er Avril 1876 dans le journal **New-England Journal Of Education**.
 
-*Figure 1: Les Éléments d'Euclide d'Isaac Barrow (1686), de la collection du Dr Sid Kolpas.*
+![](https://github.com/omedkane/Travail/blob/master/images/MergedImages.jpg)
 
-
+<p align="justify">Les Éléments d'Euclide d'Isaac Barrow (1686), de la collection du Dr Sid Kolpas.</p>
 
 ## Démonstration
 
