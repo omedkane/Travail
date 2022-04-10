@@ -55,7 +55,7 @@ Rappellons aussi que la surface d'un triangle est égale à la moitié du produi
   <img src="https://github.com/omedkane/Travail/blob/master/equations/eqn2.svg" title="" alt="" data-align="center" width="260">
 </p>
   
-La surface <img src="https://render.githubusercontent.com/render/math?math=S_T"> du trapèze étant égale à la somme des surfaces des triangles, nous obtenons l'équation suivante dont la simplification aboutit au théorème de **Pythagore** :
+La surface <img src="https://render.githubusercontent.com/render/math?math=S_T"> du trapèze étant égale à la somme des surfaces des triangles, nous obtenons l'équation suivante dont le développement et la simplification aboutissent au **Théorème de Pythagore** :
 
 <img src="https://github.com/omedkane/Travail/blob/master/equations/eqn3.svg" title="" alt="" data-align="center" width="780">
 
