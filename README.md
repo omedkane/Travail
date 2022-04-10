@@ -8,7 +8,7 @@ Garfield a avancé sa preuve du théorème de Pythagore en 1876 étant membre du
 
 
 
-![](C:\Users\uPanda\Desktop\Books\0-UQTR\Methodologie%20de%20Recherche\Travail\MergedImages.jpg)
+![](https://github.com/omedkane/Travail/blob/master/MergedImages.jpg)
 
 *Figure 1: Les Éléments d'Euclide d'Isaac Barrow (1686), de la collection du Dr Sid Kolpas.*
 
@@ -22,15 +22,15 @@ La démarche de Garfield invite à assembler trois triangles rectangles, en supe
 
 Considèrons un triangle $ABC$ et un autre triangle $A'B'C'$ de même dimensions mais ce dernier ayant subi une rotation de **90°** vers la droite et placé au dessus du triangle $ABC$ en superposant  les extrémités hautes de $B'$ et $A$ ;
 
-<img title="" src="file:///C:/Users/uPanda/Desktop/Books/0-UQTR/Methodologie%20de%20Recherche/Travail/Fig%201.svg" alt="" data-align="center" width="383">
+<img title="" src="https://github.com/omedkane/Travail/blob/master/Fig%201.svg" alt="" data-align="center" width="383">
 
-<img title="" src="file:///C:/Users/uPanda/Desktop/Books/0-UQTR/Methodologie%20de%20Recherche/Travail/Fig%202.svg" alt="" data-align="center" width="313">
+<img title="" src="https://github.com/omedkane/Travail/blob/master/Fig%202.svg" alt="" data-align="center" width="313">
 
 ### Étape 2 :
 
 En effectuant une évidente projection du troisième triangle, nous obtenons un trapèze $T$ :
 
-<img title="" src="file:///C:/Users/uPanda/Desktop/Books/0-UQTR/Methodologie%20de%20Recherche/Travail/Fig%203.svg" alt="" data-align="center" width="319">
+<img title="" src="https://github.com/omedkane/Travail/blob/master/Fig%203.svg" alt="" data-align="center" width="319">
 
 En effectuant cette projection, nous notons que la surface $S_t$ du trapèze $T$ est égale à la somme des surfaces des trois triangles, or rappellons que la surface d'un trapèze est aussi égale à sa hauteur multiplée par la moyenne de ses deux bases, dans notre cas, nous avons :
 
