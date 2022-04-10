@@ -4,7 +4,8 @@
 
 Aux nombreuses preuves du théorème de Pythagore, s'ajoute la contribution du 20ème président des États-Unis d'Amérique **James Garfield**, un diplomé du collège universitaire **Williams College** qui fut de suite enseignant de la langue grecque, du latin, de l'histoire, de la philosophie, de la rhétorique et enfin des mathématiques à l'institut **Western Reserve Ecletic**, aujourd'hui connu sous le nom de **Hiram College**.
 
-<img title="James A. Garfield" src="https://github.com/omedkane/Travail/blob/master/images/Garfield.jpg" alt="" width="426" data-align="center">***James Abram Garfield*** *(November 19, 1831 – September 19, 1881), Président des États-Unis du 4 Mars 1881 jusqu'à son décès le 19 septembre 1881.*
+<img title="James A. Garfield" src="https://github.com/omedkane/Travail/blob/master/images/Garfield.jpg" alt="" width="426" data-align="center">
+***James Abram Garfield*** *(November 19, 1831 – September 19, 1881), Président des États-Unis du 4 Mars 1881 jusqu'à son décès le 19 septembre 1881.*
 
 
 
@@ -42,6 +43,6 @@ Rappellons aussi que la surface d'un triangle est égale à la moitié du produi
 
 La surface <img src="https://render.githubusercontent.com/render/math?math=S_T"> du trapèze étant égale à la somme des surfaces des triangles, nous obtenons l'équation suivante dont la simplification aboutit au théorème de **Pythagore** :
 
-<img src="https://github.com/omedkane/Travail/blob/master/equations/eqn3.svg" title="" alt="" data-align="center">
+<img src="https://github.com/omedkane/Travail/blob/master/equations/eqn3.svg" title="" alt="" data-align="center" width="779"
 
 
